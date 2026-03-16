@@ -11,6 +11,7 @@ Registration Page
 Forgot Password Page
 ![image alt](https://github.com/gani65135/authentication-system-styled/blob/4e6ac2ae10654012db73924c8d7606ca23d117cc/forgot-password.png.png).
 Reset Password Page
+![image alt](https://github.com/gani65135/authentication-system-styled/blob/e1301bfbab741036f011aa07f5b6b4a9d9c2b45e/reset-password.png.png).
 Dashboard Page
 
 Technologies Used:

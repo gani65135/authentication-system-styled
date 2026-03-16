@@ -13,7 +13,7 @@ Forgot Password Page
 Reset Password Page
 ![image alt](https://github.com/gani65135/authentication-system-styled/blob/e1301bfbab741036f011aa07f5b6b4a9d9c2b45e/reset-password.png.png).
 Dashboard Page
-
+![image alt](https://github.com/gani65135/authentication-system-styled/blob/fec4e1aac279864a70d799ef53805db091e00877/dashboard.png.png).
 Technologies Used:
 
 HTML
